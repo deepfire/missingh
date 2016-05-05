@@ -106,9 +106,9 @@ library
         System.IO.HVFS.InstanceHelpers
         System.IO.HVFS.Utils
         System.IO.HVIO
-        System.IO.StatCompa
-        System.IO.WindowsCompa
-        System.IO.PlafCompa
+        System.IO.StatCompat
+        System.IO.WindowsCompat
+        System.IO.PlafCompat
         System.Posix.Consts
         System.Debian
         System.Debian.ControlParser
